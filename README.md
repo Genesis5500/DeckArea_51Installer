@@ -21,8 +21,10 @@ chmod +x main
 
 **When the script finishes**
 1. Go back to Gaming Mode and find the Area 51 non-Steam shortcut added
-2. Once started, go to controller configurations and community layout
-3. Set configuration at A51
+2. Set the proton version the script installed by going to the cog button on the right side of the entry > properties > turn on compatability > enable Proton 9.2
+3. Start Game
+4. Once started, go to controller configurations and community layout
+5. Set configuration at A51 from community layouts
 
 **What this script does:**
 1. Checks for Area 51 (Project Dreamland Mod) files and needed Proton version
