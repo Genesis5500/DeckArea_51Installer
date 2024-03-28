@@ -3,7 +3,7 @@
 
 **Video Based Instructions are on Youtube below**
 
-https://youtu.be/NR02p9wZ6vI
+https://youtu.be/GDlrmyEw_ZY
 
 **For Text Based Instructions Continue Below**
 
