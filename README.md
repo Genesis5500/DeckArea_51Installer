@@ -20,7 +20,7 @@ chmod +x main
 
 
 **When the script finishes**
-1. Restart Steam from Desktop mode and find the Area 51 non-Steam shortcut added
+1. Go back to Gaming Mode and find the Area 51 non-Steam shortcut added
 2. Once started, go to controller configurations and community layout
 3. Set configuration at A51
 
